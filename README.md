@@ -1,2 +1,4 @@
 # smsblock
-Blocks spam SMS i.e. EmiratesNBD
+Blocks the following:
+- EmiratesNBD  
+_\*Convert now\* Pay as low as AED..._
